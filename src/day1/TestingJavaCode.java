@@ -5,7 +5,7 @@ public class TestingJavaCode {
 	public static int a = 1;
 	public static String b = "RCJyesta";
 	public static String c = "SrivenkatJyesta";
-	
+	public static String d = "Hey";
 	
 
 	public static void main(String[] args) {
