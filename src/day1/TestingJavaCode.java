@@ -6,14 +6,11 @@ public class TestingJavaCode {
 	public static String b = "RCJyesta";
 	public static String c = "SrivenkatJyesta";
 	public static String d = "Hey";
-	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int value = 1;
-		int code = 789;
-		int s = 89;
+		int value = 1, code = 789, s = 89;
 
 		double deci = 10.23;
 		TestingJavaCode.test(value, code, s);
@@ -34,6 +31,9 @@ public class TestingJavaCode {
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
+
+		float t = 1.20f;
+		System.out.println(t);
 
 	}
 }
